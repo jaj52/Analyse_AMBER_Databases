@@ -1,4 +1,4 @@
-Analyse AMBER Databases produced via Discrete path sampling
+#Analyse_AMBER_Databases produced via Discrete path sampling
 
 Notes:
-Python scripts used to analyse kinetic transition networks constructed using discrete path sampling with AMER force-fields
+Python + Bash scripts used to analyse kinetic transition networks constructed using discrete path sampling with AMER force-fields
